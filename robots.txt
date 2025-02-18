@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mqalu.csgad.com/Wzt/sitemap.xml.gz
